@@ -1,0 +1,17 @@
+topic read isima/SECRET_99999/G9/LEDs/#
+
+user SuperV
+topic readwrite isima/SECRET_99999/G9/LEDs/#
+
+user SuperV
+topic read isima/SECRET_99999/G9/BPs/#
+
+user SuperV
+topic read #
+
+user Arduinolot
+topic readwrite isima/SECRET_99999/G9/LEDs/#
+
+user Arduinolot
+topic readwrite isima/SECRET_99999/G9/BPs/#
+
